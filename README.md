@@ -40,7 +40,7 @@
 ## Heurística escolhida
   A heurística escolhida para esse trabalho foi a **Distância Euclidiana**, dada pela função:
 
-  ![equation](http://www.sciweavers.org/tex2img.php?eq=%20%5Csqrt%7B%28i_%7Bfinal%7D-%20i_%7Binicial%7D%29%5E%7B2%7D%2B%28j_%7Bfinal%7D-j_%7Binicial%7D%29%5E%7B2%7D%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+  ![equation](equation.png)
 
 ## Resumo do algoritmo desenvolvido
   - Primeiro, no arquivo ```main.py```, são buscados o nome do arquivo com o mapa, a posição inicial e a posição final;
