@@ -1,4 +1,4 @@
-# Trabalho 1 de IA
+# A*
 
 ## Como executar o código
   Abrir o terminal e ir até a pasta onde está o código.
